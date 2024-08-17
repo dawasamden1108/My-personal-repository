@@ -1,5 +1,7 @@
-Hi there 👋
+Hi there, I am Dawa samden sherpa
 
-🔭 I’m currently working on a portfolio website,
+I have worked on a portfolio website,
 
-🌱 I’m currently learning HTML, CSS, and JavaScript.
+I’m currently learning HTML, CSS, and JavaScript.
+
+
